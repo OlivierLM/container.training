@@ -321,7 +321,7 @@ class: extra-details
 
 ## `ExternalIP`
 
-- When creating a servivce, we can also specify an `ExternalIP`
+- When creating a service, we can also specify an `ExternalIP`
 
   (this is not a type, but an extra attribute to the service)
 
